@@ -1,3 +1,5 @@
+#!/usr/local/bin/Rscript
+
 server <- function(){
   while(TRUE){
     writeLines("Listening...")
